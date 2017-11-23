@@ -27,6 +27,22 @@ section:hover {
   border-width: 1px;
 }
 
+a {
+  text-decoration: none;
+}
+
+a img {
+  vertical-align: middle:
+  overflow:hidden; 
+}
+
+figure {
+  width:auto;
+  height:230px;
+  vertical-align: middle;
+  margin:auto;
+}
+
 .bg-black {
   color:black;
   margin:7px;
